@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="saludo">Hola mundo, Usat 2026</string>
+</resources>
